@@ -54,6 +54,8 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/yu/jalebi/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/yu/jalebi/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libfacenet-32.so:system/vendor/lib/libfacenet-32.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libprotobuf-cpp-haxx.so:system/vendor/lib/libprotobuf-cpp-haxx.so \
     vendor/yu/jalebi/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/yu/jalebi/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/yu/jalebi/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
